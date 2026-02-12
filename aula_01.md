@@ -5,7 +5,7 @@ Apresentar a disciplina de Programação Web, o plano de ensino e uma visão ger
 
 ---
 
-## 👥 Apresentação da turma
+## Apresentação da turma
 Discussão inicial com a turma sobre:
 - 💼 experiências profissionais na área
 - 🚀 expectativas após o curso
@@ -13,7 +13,7 @@ Discussão inicial com a turma sobre:
 
 ---
 
-## 🧩 Estrutura da disciplina (plano de aulas/ensino)
+## Estrutura da disciplina (plano de aulas/ensino)
 O plano de ensino inclui:
 - ✅ objetivos de aprendizagem
 - 📌 ementa
