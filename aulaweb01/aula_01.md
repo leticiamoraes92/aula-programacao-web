@@ -50,7 +50,6 @@ O plano de ensino inclui:
 <img width="1500" height="693" alt="image" src="https://github.com/user-attachments/assets/d7b8138f-fb25-4153-9a3e-6d21a6c51937" />
 
 **Arquitetura de um site** é planejar **o que** ele vai ter e **como** o usuário vai usar.
-
 **Escopo:** define objetivo, público, páginas/funcionalidades, regras/limites e métricas de sucesso.  
 **UX:** organiza jornadas e fluxos para ser fácil, rápido, acessível e responsivo.  
 **UI:** define o visual (layout, cores, tipografia e componentes) com consistência.
