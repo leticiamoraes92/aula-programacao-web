@@ -93,8 +93,8 @@ Computadores (físicos ou na nuvem ) que **armazenam e executam** um site/app, r
 - **Armazenamento** 
 - **Banco de dados** 
 - **Domínio e DNS** 
-- **SSL** 🔒
-- **Escalabilidade** 📈 e backups 
+- **SSL**
+- **Escalabilidade** e backups 
 Tipos comuns: **compartilhada** , **VPS** , **dedicada**  e **cloud**.
 
 ## CMS (Content Management System) 🧩
@@ -110,8 +110,6 @@ Atenção: exige manutenção/segurança  e pode ficar pesado dependendo do uso 
 ### 5) Website builders
 
 <img width="787" height="630" alt="image" src="https://github.com/user-attachments/assets/71ccf9b1-f47b-4bae-a8a2-35b702370cc8" />
-
-# Website Builders — Resumo 🧱✨
 
 **Website builders** são plataformas que permitem **criar sites sem programar** (ou com pouco código), usando **arrastar e soltar** , templates e configurações prontas ⚙️.
 
