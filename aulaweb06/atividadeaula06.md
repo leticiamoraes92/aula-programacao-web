@@ -7,7 +7,7 @@
 A atividade consistiu na criação de um site utilizando um **Website Builder com Inteligência Artificial**, permitindo o desenvolvimento rápido e intuitivo sem necessidade de programação avançada.
 
 🔗 Repositório do projeto:  
-👉 https://github.com/leticiamoraes92/tupperware-dream-builder
+👉 https://github.com/leticiamoraes92/comece-sua-jornada-tupperware
 
 ---
 
