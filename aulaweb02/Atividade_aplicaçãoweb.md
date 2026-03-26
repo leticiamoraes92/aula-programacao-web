@@ -111,6 +111,7 @@ Como visitante, eu quero visualizar receitas por categorias para encontrar opç�
 ---
 
 ## 🧩 5. Wireframe – Kitchen Boss
+<img width="1301" height="731" alt="image" src="https://github.com/user-attachments/assets/68b60d9b-615a-4e68-8544-8d7ea12de197" />
 
 ### 📌 Estrutura:
 
@@ -153,4 +154,40 @@ Essas etapas ajudam a evitar erros no desenvolvimento e melhoram a experiência 
 
 ---
 
-📎 Base da atividade: :contentReference[oaicite:0]{index=0}
+# 📋 Gestão do Projeto com Kanban 
+
+## 🧰 Ferramenta Utilizada
+Foi utilizada a ferramenta **Trello** para organizar o projeto utilizando a metodologia **Kanban**, permitindo acompanhar o progresso das tarefas de forma visual.
+
+---
+
+## 📌 Estrutura do Quadro
+
+<img width="1150" height="540" alt="kanban" src="https://github.com/user-attachments/assets/ec092bd3-6c6d-4831-a6e7-703495597cd3" />
+
+
+## 🎯 Conclusão
+
+O uso do Trello foi fundamental para o gerenciamento do projeto, permitindo uma organização eficiente das tarefas e acompanhamento contínuo do desenvolvimento. A metodologia Kanban contribuiu para maior produtividade e clareza no fluxo de trabalho.
+
+# ⏱️ Planejamento de Sprints (Baseado no Trello)
+
+## 📌 Organização Geral
+As Sprints foram definidas com base nas tarefas organizadas no quadro  (Backlog, A Fazer, Em Andamento e Concluído), dividindo o projeto em etapas de desenvolvimento.
+
+<img width="1142" height="749" alt="trello" src="https://github.com/user-attachments/assets/f86b86a7-e3a6-4e00-8565-a569199ca8af" />
+
+## 🎯 Benefícios do Uso de Sprints
+
+- Organização do desenvolvimento em etapas  
+- Melhor controle das tarefas  
+- Facilidade de acompanhamento do progresso  
+- Entregas incrementais  
+
+---
+
+## ✅ Conclusão
+
+A divisão do projeto em Sprints, baseada no quadro Kanban do Trello, permitiu uma melhor organização das atividades e priorização das tarefas. Isso contribui para um desenvolvimento mais eficiente e estruturado, garantindo evolução contínua do sistema.
+
+
