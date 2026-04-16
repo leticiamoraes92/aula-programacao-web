@@ -44,82 +44,22 @@ São ferramentas que facilitam o desenvolvimento de interfaces web, oferecendo e
 ---
 
 ## 🔹 Criando Projeto React
+# ✅ Atividade Realizada
 
-```bash
-npx create-react-app meu-projeto
-cd meu-projeto
-npm start
-# 🚀 Projeto React – Atividade Frameworks Front-end
+A atividade consistiu no desenvolvimento de uma aplicação utilizando React, com o objetivo de aplicar os conceitos de frameworks front-end.
 
-# 📌 Descrição
+Foram implementadas as seguintes funcionalidades:
+- To-Do List (lista de tarefas)
+- Contador de cliques
+- Jogo da Velha
+- Calculadora
+- Buscador de CEP com integração de API
 
-Este projeto foi desenvolvido como atividade da disciplina de Desenvolvimento Web, com o objetivo de aplicar conceitos de **frameworks front-end**, utilizando a biblioteca React.
+O projeto foi estruturado com componentes reutilizáveis e gerenciamento de estado utilizando `useState`.
 
----
+Por fim, a aplicação foi versionada com Git, publicada no GitHub e disponibilizada online por meio do Vercel.
 
-# 🎯 Objetivo
 
-Criar uma aplicação React contendo múltiplas funcionalidades, demonstrando o uso de componentes, estado e integração com API.
-
----
-
-# 🧩 Funcionalidades
-
-## ✔️ To-Do List
-- Adição de tarefas  
-- Remoção de tarefas  
-- Gerenciamento de estado com `useState`  
-
----
-
-## ✔️ Contador de Cliques
-- Incremento e decremento  
-- Atualização dinâmica da interface  
-
----
-
-## ✔️ Jogo da Velha
-- Tabuleiro 3x3  
-- Alternância entre jogadores (X e O)  
-- Verificação de vencedor  
-- Reinício do jogo  
-
----
-
-## ✔️ Calculadora
-- Operações básicas (+, -, *, /)  
-- Entrada dinâmica  
-- Cálculo automático  
-
----
-
-## ✔️ Buscador de CEP
-- Consumo de API (ViaCEP)  
-- Retorno de endereço e cidade  
-
----
-
-# 🛠️ Tecnologias Utilizadas
-
-- React  
-- JavaScript  
-- HTML  
-- CSS  
-- Node.js  
-- NPM  
-
----
-
-# 📂 Estrutura do Projeto
-
-src/
- ├── components/
- │   ├── Header.js
- │   ├── Todo.js
- │   ├── Contador.js
- │   ├── JogoVelha.js
- │   ├── Calculadora.js
- │   └── Cep.js
- ├── App.js
- ├── App.css
+ 
+Git Repository: https://github.com/leticiamoraes92/meu-projeto
 
